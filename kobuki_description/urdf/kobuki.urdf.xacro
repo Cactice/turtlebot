@@ -239,9 +239,9 @@
 	    </collision>
 	    <visual>
 		    <origin xyz="0 0 0" rpy="0 0 0"/>
-		    <geometry>
+		    <!-- <geometry>
 			    <mesh filename="package://hokuyo/meshes/hokuyo.dae"/>
-		    </geometry>
+		    </geometry> -->
 	    </visual>
     </link>
     <!-- Kobuki Gazebo simulation details -->
